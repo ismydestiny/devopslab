@@ -5,4 +5,4 @@ export KUBECONFIG=/tmp/ic/AA/.bluemix/plugins/container-service/clusters/tektonk
 
 export NAMESPACE=shawn
 export EMAIL=hanxiaowenhao@gmail.com
-export INGRESS=
+export INGRESS=tektonknativebeijing11-0e3e0ef4c9c6d831e8aa6fe01f33bfc4-0001.jp-tok.containers.appdomain.cloud 
