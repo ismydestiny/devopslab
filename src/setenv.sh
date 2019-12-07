@@ -1,6 +1,6 @@
 export GITACCOUNT=ismydestiny
 
-export MYCLUSTER=tektonknativebeijing66
+export MYCLUSTER=tektonknativebeijing11
 export KUBECONFIG=
 
 export NAMESPACE=shawn
